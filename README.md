@@ -1,4 +1,5 @@
 Norwegian wiki and resources for SpikeApp
+
 This is a Norwegian translation of the Wiki for the SpikeApp https://github.com/SpikeApp/Spike/wiki
 
 ### Gå til wiki: https://github.com/uthne/SpikeApp-NO-Wiki/wiki
